@@ -1,0 +1,5 @@
+Calculator 
+
+Welcome to the Simple Calculator repository!
+
+This repository contains a Python script that implements a simple calculator with basic arithmetic operations. Users can input two numbers and choose an operation (+, -, *, /), and the script will perform the calculation and display the result.
